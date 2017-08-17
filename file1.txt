@@ -1,4 +1,8 @@
 first string
 
+<<<<<<< HEAD
 second string
 third sring
+=======
+ew line
+>>>>>>> new_branch1
